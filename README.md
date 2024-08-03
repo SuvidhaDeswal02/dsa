@@ -1,4 +1,7 @@
-# reversing an integer:
+# Reversing an integer:
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+```cpp
 Code 1:
 #include <iostream>
 #include <climits>
@@ -17,6 +20,9 @@ int main()
     cout<<rev(num);
     return 0;
 }
+```
+
+```cpp
 Code 2:
 #include <iostream>
 #include <climits>
@@ -35,6 +41,7 @@ int main()
     cout<<rev(num);
     return 0;
 }
+```
 ## Difference between code1 and code2-
 Both the codes differ only by the position of condition statement given to check if the reversed integer in under the range of integer. Code 1 is a more ideal code and that can be justified by considering two cases:
 1)for an integer whose value exceeds the range before n=0.(both the codes result equally for such a number)
