@@ -49,8 +49,8 @@ Both the codes differ only by the position of condition statement given to check
 
 
 #power of a number:
-## Below given code can be used to  check the powerfor any given number.
-
+## Below given code can be used to  check the power for any given number(let a).
+```cpp
 #include <iostream>
 using namespace std;
 bool pow(int n){
@@ -66,3 +66,4 @@ int main()
     cout<<pow(n);
     return 0;
 }
+```
