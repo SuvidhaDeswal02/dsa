@@ -49,7 +49,7 @@ Both the codes differ only by the position of condition statement given to check
 
 
 #power of a number:
-## Below given code can be used to  check the power for any given number(let a).
+## Below given code can be used to check if the given number is the power of some number(let a).
 ```cpp
 #include <iostream>
 using namespace std;
