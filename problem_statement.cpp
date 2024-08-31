@@ -1,0 +1,1 @@
+//An amount of 1330 is given and it is to be figured that how many 100,50,20 and 1 rupee notes are used to give this amount.
