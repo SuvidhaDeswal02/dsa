@@ -1,4 +1,4 @@
-//An amount of 1330 is given and it is to be figured that how many 100,50,20 and 1 rupee notes are used to give this amount.
+//An amount of Rs.1330 is given and it is to be figured that how many 100,50,20 and 1 rupee notes are required to give this amount.
 #include <iostream>
 using namespace std;
 int main(){
